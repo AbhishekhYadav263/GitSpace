@@ -28,7 +28,7 @@ const Hero = (props: Props) => {
                         <div className='flex items-center p-3 px-5'>
                             <img className=" d-block w-auto flex-grow-0 flex-shrink-0 mr-6 max-md:mr-3 scale-110" width="44" height="44" loading="lazy" decoding="async" alt="" aria-hidden="true" src="https://github.githubassets.com/images/modules/site/eyebrow-banner-icon-copilot-x.svg" />
                             <div className='md:pr-5 pr-3 md:mr-2 md:pl-2'>
-                                <div className='font-medium text-white text-[16px] max-md:text-[14px] leading-5'>Introducing GitCarbon Copilot X</div>
+                                <div className='font-medium text-white text-[16px] max-md:text-[14px] leading-5'>Introducing GitSpace Copilot X</div>
                                 <div className='text-neutral-500 max-md:text-[14px] text-[16px]'>Your Ai pair programmer is leveling Up</div>
                             </div>
                             <div className='ml-auto'>
@@ -50,7 +50,7 @@ const Hero = (props: Props) => {
                         </dd>
                     </dl>
                     <button type="button" className='mb-10 md:mb-0 py-3 w-full home-campaign-signup-button text-[16px] max-md:rounded-md md:rounded-e-md text-white font-semibold'>
-                        Sign up for GitCarbon
+                        Sign up for GitSpace
                     </button>
                     </div>
                 </form>

@@ -35,7 +35,7 @@ const OpenSourceNav = (props: Props) => {
             </button>
             <div className={`relative lg:absolute -ml-5 bg-white rounded-md lg:py-4 p-6 w-[320px] transition ease-in duration-150 ${show ? "opacity-100 visible" : "opacity-0 hidden"}`}>
                 <div className='lg:border-b-[1px] mb-4 pb-6 pt-4 w-full'>
-                    <span className='text-neutral-800 font-semibold text-base hover:text-blue-600'> GitCarbon Sponsers <p className='text-sm font-normal text-neutral-500'>Fund open source developers</p></span>
+                    <span className='text-neutral-800 font-semibold text-base hover:text-blue-600'> GitSpace Sponsers <p className='text-sm font-normal text-neutral-500'>Fund open source developers</p></span>
                 </div>
                 <div className='lg:border-b-[1px] mb-4 pb-6 pt-0 w-full'>
                     <span className='text-neutral-800 font-semibold text-base hover:text-blue-600'>The ReadMe Projects <p className='text-sm font-normal text-neutral-500'>GitHub community articles</p></span>
